@@ -105,7 +105,8 @@
     "reduxsauce": "^1.1.0",
     "reselect": "4.0.0",
     "sanitize.css": "8.0.0",
-    "styled-components": "4.4.0"
+    "styled-components": "4.4.0",
+    "ws-react-sdk": "git+https://github.com/wednesday-solutions/ws-react-sdk.git#fix/sdk_usage"
   },
   "devDependencies": {
     "@babel/cli": "7.14.5",
